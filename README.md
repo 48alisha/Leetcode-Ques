@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/48alisha/Leetcode-Ques/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/48alisha/Leetcode-Ques/tree/master/0268-missing-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/48alisha/Leetcode-Ques/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/48alisha/Leetcode-Ques/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/48alisha/Leetcode-Ques/tree/master/2316-count-hills-and-valleys-in-an-array) |
 ## Bit Manipulation
 |  |
@@ -34,4 +35,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-find-lucky-integer-in-an-array](https://github.com/48alisha/Leetcode-Ques/tree/master/1510-find-lucky-integer-in-an-array) |
+## String
+|  |
+| ------- |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/48alisha/Leetcode-Ques/tree/master/1700-minimum-time-to-make-rope-colorful) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/48alisha/Leetcode-Ques/tree/master/1700-minimum-time-to-make-rope-colorful) |
+## Greedy
+|  |
+| ------- |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/48alisha/Leetcode-Ques/tree/master/1700-minimum-time-to-make-rope-colorful) |
 <!---LeetCode Topics End-->
