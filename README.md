@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/48alisha/Leetcode-Ques/tree/master/0268-missing-number) |
+| [2288-count-operations-to-obtain-zero](https://github.com/48alisha/Leetcode-Ques/tree/master/2288-count-operations-to-obtain-zero) |
 ## Binary Search
 |  |
 | ------- |
@@ -47,4 +48,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/48alisha/Leetcode-Ques/tree/master/1700-minimum-time-to-make-rope-colorful) |
+## Simulation
+|  |
+| ------- |
+| [2288-count-operations-to-obtain-zero](https://github.com/48alisha/Leetcode-Ques/tree/master/2288-count-operations-to-obtain-zero) |
 <!---LeetCode Topics End-->
