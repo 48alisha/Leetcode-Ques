@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/48alisha/Leetcode-Ques/tree/master/0268-missing-number) |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/48alisha/Leetcode-Ques/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [2288-count-operations-to-obtain-zero](https://github.com/48alisha/Leetcode-Ques/tree/master/2288-count-operations-to-obtain-zero) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/48alisha/Leetcode-Ques/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Binary Search
