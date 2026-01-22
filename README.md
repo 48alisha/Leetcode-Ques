@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/48alisha/Leetcode-Ques/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/48alisha/Leetcode-Ques/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/48alisha/Leetcode-Ques/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/48alisha/Leetcode-Ques/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/48alisha/Leetcode-Ques/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/48alisha/Leetcode-Ques/tree/master/0283-move-zeroes) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/48alisha/Leetcode-Ques/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/48alisha/Leetcode-Ques/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/48alisha/Leetcode-Ques/tree/master/0268-missing-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/48alisha/Leetcode-Ques/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/48alisha/Leetcode-Ques/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -42,11 +44,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/48alisha/Leetcode-Ques/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/48alisha/Leetcode-Ques/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/48alisha/Leetcode-Ques/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/48alisha/Leetcode-Ques/tree/master/0268-missing-number) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/48alisha/Leetcode-Ques/tree/master/2274-keep-multiplying-found-values-by-two) |
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/48alisha/Leetcode-Ques/tree/master/0169-majority-element) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/48alisha/Leetcode-Ques/tree/master/1510-find-lucky-integer-in-an-array) |
 ## String
 |  |
@@ -71,4 +75,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/48alisha/Leetcode-Ques/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/48alisha/Leetcode-Ques/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/48alisha/Leetcode-Ques/tree/master/0283-move-zeroes) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/48alisha/Leetcode-Ques/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
