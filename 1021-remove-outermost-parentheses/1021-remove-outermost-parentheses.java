@@ -3,7 +3,7 @@ class Solution {
         StringBuilder sb = new StringBuilder();
         int count = 0;
 
-        for (int i = 0; i < s.length() - 1; i++) {
+        for (int i = 0; i < s.length() ; i++) {
             if (s.charAt(i) == '(') {
                 if (count > 0) {
                     sb.append(s.charAt(i));
