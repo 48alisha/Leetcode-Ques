@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1021-remove-outermost-parentheses](https://github.com/48alisha/Leetcode-Ques/tree/master/1021-remove-outermost-parentheses) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/48alisha/Leetcode-Ques/tree/master/1700-minimum-time-to-make-rope-colorful) |
 ## Dynamic Programming
 |  |
@@ -87,4 +88,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/48alisha/Leetcode-Ques/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/48alisha/Leetcode-Ques/tree/master/0169-majority-element) |
+## Stack
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/48alisha/Leetcode-Ques/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
