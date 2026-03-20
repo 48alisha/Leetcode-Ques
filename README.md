@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/48alisha/Leetcode-Ques/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/48alisha/Leetcode-Ques/tree/master/0205-isomorphic-strings) |
 | [0268-missing-number](https://github.com/48alisha/Leetcode-Ques/tree/master/0268-missing-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/48alisha/Leetcode-Ques/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/48alisha/Leetcode-Ques/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/48alisha/Leetcode-Ques/tree/master/0151-reverse-words-in-a-string) |
+| [0205-isomorphic-strings](https://github.com/48alisha/Leetcode-Ques/tree/master/0205-isomorphic-strings) |
 | [1021-remove-outermost-parentheses](https://github.com/48alisha/Leetcode-Ques/tree/master/1021-remove-outermost-parentheses) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/48alisha/Leetcode-Ques/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1903-largest-odd-number-in-string](https://github.com/48alisha/Leetcode-Ques/tree/master/1903-largest-odd-number-in-string) |
