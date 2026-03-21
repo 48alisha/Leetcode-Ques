@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/48alisha/Leetcode-Ques/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/48alisha/Leetcode-Ques/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/48alisha/Leetcode-Ques/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/48alisha/Leetcode-Ques/tree/master/0268-missing-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/48alisha/Leetcode-Ques/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/48alisha/Leetcode-Ques/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/48alisha/Leetcode-Ques/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/48alisha/Leetcode-Ques/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/48alisha/Leetcode-Ques/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/48alisha/Leetcode-Ques/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/48alisha/Leetcode-Ques/tree/master/0268-missing-number) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/48alisha/Leetcode-Ques/tree/master/2274-keep-multiplying-found-values-by-two) |
 ## Counting
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/48alisha/Leetcode-Ques/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/48alisha/Leetcode-Ques/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/48alisha/Leetcode-Ques/tree/master/0242-valid-anagram) |
 | [0796-rotate-string](https://github.com/48alisha/Leetcode-Ques/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/48alisha/Leetcode-Ques/tree/master/1021-remove-outermost-parentheses) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/48alisha/Leetcode-Ques/tree/master/1700-minimum-time-to-make-rope-colorful) |
