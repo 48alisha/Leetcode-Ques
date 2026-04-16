@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/48alisha/Leetcode-Ques/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/48alisha/Leetcode-Ques/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/48alisha/Leetcode-Ques/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/48alisha/Leetcode-Ques/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/48alisha/Leetcode-Ques/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/48alisha/Leetcode-Ques/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/48alisha/Leetcode-Ques/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/48alisha/Leetcode-Ques/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/48alisha/Leetcode-Ques/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/48alisha/Leetcode-Ques/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/48alisha/Leetcode-Ques/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/48alisha/Leetcode-Ques/tree/master/0217-contains-duplicate) |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/48alisha/Leetcode-Ques/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/48alisha/Leetcode-Ques/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/48alisha/Leetcode-Ques/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/48alisha/Leetcode-Ques/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/48alisha/Leetcode-Ques/tree/master/0217-contains-duplicate) |
@@ -79,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/48alisha/Leetcode-Ques/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/48alisha/Leetcode-Ques/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/48alisha/Leetcode-Ques/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/48alisha/Leetcode-Ques/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/48alisha/Leetcode-Ques/tree/master/0242-valid-anagram) |
