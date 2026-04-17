@@ -11,6 +11,10 @@ var groupAnagrams = function(strs) {
             map.set(key,[]);
         }
         map.get(key).push(str);
+        
+
+      
+
     }
     return Array.from(map.values());
     
