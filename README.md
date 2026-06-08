@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/48alisha/Leetcode-Ques/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/48alisha/Leetcode-Ques/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/48alisha/Leetcode-Ques/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/48alisha/Leetcode-Ques/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/48alisha/Leetcode-Ques/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/48alisha/Leetcode-Ques/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/48alisha/Leetcode-Ques/tree/master/0283-move-zeroes) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/48alisha/Leetcode-Ques/tree/master/0013-roman-to-integer) |
+| [0189-rotate-array](https://github.com/48alisha/Leetcode-Ques/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/48alisha/Leetcode-Ques/tree/master/0268-missing-number) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/48alisha/Leetcode-Ques/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1903-largest-odd-number-in-string](https://github.com/48alisha/Leetcode-Ques/tree/master/1903-largest-odd-number-in-string) |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/48alisha/Leetcode-Ques/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/48alisha/Leetcode-Ques/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/48alisha/Leetcode-Ques/tree/master/0151-reverse-words-in-a-string) |
+| [0189-rotate-array](https://github.com/48alisha/Leetcode-Ques/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/48alisha/Leetcode-Ques/tree/master/0283-move-zeroes) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/48alisha/Leetcode-Ques/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Divide and Conquer
