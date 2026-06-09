@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/48alisha/Leetcode-Ques/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/48alisha/Leetcode-Ques/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/48alisha/Leetcode-Ques/tree/master/0347-top-k-frequent-elements) |
+| [0485-max-consecutive-ones](https://github.com/48alisha/Leetcode-Ques/tree/master/0485-max-consecutive-ones) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/48alisha/Leetcode-Ques/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/48alisha/Leetcode-Ques/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/48alisha/Leetcode-Ques/tree/master/1752-check-if-array-is-sorted-and-rotated) |
