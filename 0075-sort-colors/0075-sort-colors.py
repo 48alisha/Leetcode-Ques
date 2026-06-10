@@ -1,7 +1,4 @@
-class Solution:
-    def sortColors(self, nums: List[int]) -> None:
-        """
-        Do not return anything, modify nums in-place instead.
-        """
-        List.sort(nums)
+class Solution(object):
+    def sortColors(self, nums):
+        nums.sort()
         
